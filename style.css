@@ -1,0 +1,35 @@
+h1.display-4 {
+       text-align: center;
+       color: antiquewhite;
+       font-family: 'Alegreya', serif;
+       padding: 60px 0px 0px 0px;
+}
+
+p.lead {
+    color: antiquewhite;
+    text-align: center;
+    padding: 0px 0px 60px 0px;
+    font-family: 'Alegreya', serif;
+}
+
+a.nav-link {
+    font-family: 'Alegreya', serif;
+}
+
+div.col-md-4 {
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+}
+
+.jumbotron {
+    background-image: url(weddingsinger.jpg );
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+p.requests {
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+}
